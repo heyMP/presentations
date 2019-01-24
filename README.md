@@ -8,7 +8,7 @@
 - http://odl-vr-presentation.surge.sh
 
 "Web Vr with A-Frame" - Learning Design Summer Camp, TLT Penn State
-- http://ldsc2018-vr.surge.sh/#/
+- http://ldsc2018-vr.surge.sh
 
 ## 2017
 
