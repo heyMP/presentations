@@ -22,3 +22,6 @@
 "Mad Scientist Road Show" co-presenter – DrupalCon Baltimore
 - https://events.drupal.org/baltimore2017/sessions/mad-scientist-road-show
 - https://www.youtube.com/watch?v=dGi8n1LAQbg
+
+"Polymer Day" co-facilitator – TLT Dreamery
+- https://github.com/steam-engine-psu/polymer-day-psu-2017
