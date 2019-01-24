@@ -27,3 +27,6 @@
 
 "Polymer Day" co-facilitator – TLT Dreamery
 - https://github.com/steam-engine-psu/polymer-day-psu-2017
+
+"Improving Accessibility Through Web Components" co-presenter – Penn State Accessibility Users Group
+- https://github.com/heyMP/aug-checkbox
