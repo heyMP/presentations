@@ -5,16 +5,18 @@
 "Learn About Web Components Training" co-facilitator – Open Apereo 2018
 - https://www.apereo.org/conferences/open-apereo-2018
 
-"Virtual Reality on the Web with A-Frame and a Few of Its Friends" presentor – Open Apereo 2018
+"Virtual Reality on the Web with A-Frame and a Few of Its Friends" presenter – Open Apereo 2018
 - https://www.apereo.org/conferences/open-apereo-2018
 - http://apereo18-vr.surge.sh
 
+"Virtual Reality on the Web with A-Frame and a Few of Its Friends" co-presenter – Penn State Tech Pros
+
 "Creating chemistry in an online learning environment" co-presenter – TLT Symposium Penn State
 
-"Virtual Reality on the Web with A-Frame and a Few of Its Friends" - TLT Symposium Penn State
+"Virtual Reality on the Web with A-Frame and a Few of Its Friends" presenter - TLT Symposium Penn State
 - http://odl-vr-presentation.surge.sh
 
-"Web Vr with A-Frame" - Learning Design Summer Camp, TLT Penn State
+"Web Vr with A-Frame" presenter - Learning Design Summer Camp, TLT Penn State
 - http://ldsc2018-vr.surge.sh
 
 ## 2017
