@@ -30,3 +30,11 @@
 
 "Improving Accessibility Through Web Components" co-presenter – Penn State Accessibility Users Group
 - https://github.com/heyMP/aug-checkbox
+
+## 2016
+
+"Drupal and the New Front-end Workflow" presenter – DrupalCamp NJ
+- https://slides.com/heymp/new-front-end-workflow
+
+"Drupal and the New Front-end Workflow" presenter – DrupalCamp PA
+- https://slides.com/heymp/new-front-end-workflow
