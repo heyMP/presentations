@@ -9,6 +9,9 @@
 - https://www.apereo.org/conferences/open-apereo-2018
 - http://apereo18-vr.surge.sh
 
+"SIGNIFICANT WIN IN THE BATTLE FOR THE BODY FIELD" author
+- https://odl.science.psu.edu/blog/post/significant-win-battle-body-field
+
 "Virtual Reality on the Web with A-Frame and a Few of Its Friends" co-presenter – Penn State Tech Pros
 
 "Creating chemistry in an online learning environment" co-presenter – TLT Symposium Penn State
